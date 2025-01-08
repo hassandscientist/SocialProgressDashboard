@@ -1,4 +1,4 @@
-# Climate Intelligence and Sustainability Applications
+# Dashboard for the Social Progress Index
 
 ## Description
 This is a Dahsboard Desdigned for the Visualization of Descriptive Insights of the Scoial Progress Index
